@@ -1,0 +1,11 @@
+# Site settings
+title: <<ENTER COURSE NAME>>
+email: training@intersect.org.au
+description: <<ENTER COURSE DESCRIPTION>>
+remote_theme: "IntersectAustralia/intersect-training-theme"
+
+#url: "http://www.intersect.org.au"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
